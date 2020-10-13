@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Hokie Lopez
-tagline: Hokie and Awesome Person
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Hayden Whitley
+tagline: Virginia Tech School of Communication
+featuredImage: /assets/me.jpg
 cta:
-  ctaText: Know more
+  ctaText: About Me
   ctaLink: /about
 ---
-He loves VT and the good life.
+Welcome to my website!
