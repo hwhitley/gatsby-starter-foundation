@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "I'm a Hokie",
+    "title": "Hayden Whitley",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://lucid-hodgkin-d56e51.netlify.app/",
+    "description": "This is the professional site of Hayden Whitley.",
+    "siteUrl": "haydenwhitley.netlify.app",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-180562179-1"
 }
