@@ -3,7 +3,7 @@
     "title": "Hayden Whitley",
     "titleTemplate": "%s",
     "description": "This is the professional site of Hayden Whitley.",
-    "siteUrl": "haydenwhitley.netlify.app",
+    "siteUrl": "https://haydenwhitley.netlify.app",
     "image": "/assets/stackrole.png",
     "twitterUsername": ""
   },
